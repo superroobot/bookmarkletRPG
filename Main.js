@@ -8,7 +8,7 @@ function east() {
 }
 
 function south() {
-    console.log("Sout");
+    console.log("South");
 }
 
 function west() {
