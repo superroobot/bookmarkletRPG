@@ -8,4 +8,4 @@ Type "javascript:" and paste the code block below
 OR
 
 Drag this to your bookmarks bar.
-[SupeRPG]((javascript:function () {var script = document.createElement('script');script.src='https://github.com/superroobot/bookmarkletRPG/blob/main/Main.js;document.body.appendChild(script);})();)
+[SupeRPG](javascript:(function () {var script = document.createElement('script');script.src='https://github.com/superroobot/bookmarkletRPG/blob/main/Main.js;document.body.appendChild(script);})();)
